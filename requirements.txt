@@ -12,8 +12,8 @@ backcall=0.2.0=py_0
 bcrypt=3.2.0=py38he774522_0
 bleach=3.1.5=py_0
 brotlipy=0.7.0=py38he774522_1000
-ca-certificates=2020.7.22=0
-certifi=2020.6.20=py38_0
+ca-certificates=2020.6.20=hecda079_0
+certifi=2020.6.20=py38h32f6830_0
 cffi=1.14.2=py38h7a1dbc1_0
 chardet=3.0.4=py38_1003
 click=7.1.2=py_0
@@ -83,8 +83,10 @@ pyrsistent=0.16.0=py38he774522_0
 pysocks=1.7.1=py38_0
 python=3.8.5=he1778fa_0
 python-dateutil=2.8.1=py_0
+python-dotenv=0.14.0=pyh9f0ad1d_0
 python-jsonrpc-server=0.3.4=py_1
 python-language-server=0.34.1=py38_0
+python_abi=3.8=1_cp38
 pytz=2020.1=py_0
 pywin32=227=py38he774522_1
 pywin32-ctypes=0.2.0=py38_1000
